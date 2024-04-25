@@ -1,7 +1,7 @@
 # ApiAutomationTest
 
 
-Api Otomasyonunu testng.xml üzerinden "run" edildikten sonra ,
+Api Test Otomasyonunu testng.xml üzerinden "run" edildikten sonra ,
 
 ![image](https://github.com/ic0204/ApiTestB/assets/14904764/83b07eeb-595c-4739-8645-03bad9f499f1)
 
